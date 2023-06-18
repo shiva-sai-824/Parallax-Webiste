@@ -1,2 +1,2 @@
-# Parallax-Webiste
+# Parallax-Website
 Created with CodeSandbox
